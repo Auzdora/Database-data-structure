@@ -42,10 +42,12 @@ bool BinarySearch::Find(const int &key, int &value) {
 }
 
 int BinarySearch::KeyAt(int index) {
+    // find the key val in data_
     return data_[index].first;
 }
 
 int BinarySearch::ValueAt(int index) {
+    // find the value at in data_
     return data_[index].second;
 }
 
