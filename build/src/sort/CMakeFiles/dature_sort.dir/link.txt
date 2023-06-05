@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libdature_sort.a CMakeFiles/dature_sort.dir/basic_sort.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libdature_sort.a

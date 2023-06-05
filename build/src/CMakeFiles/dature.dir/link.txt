@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libdature.a hash/CMakeFiles/dature_hash.dir/extendible_hash_table.cpp.o sort/CMakeFiles/dature_sort.dir/basic_sort.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libdature.a
