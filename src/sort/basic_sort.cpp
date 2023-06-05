@@ -45,6 +45,10 @@ int BinarySearch::KeyAt(int index) {
     return data_[index].first;
 }
 
+int BinarySearch::ValueAt(int index) {
+    return data_[index].second;
+}
+
 bool BinarySearch::Delete(const int &key) {
     int index = deleteAtIndex(key);
     if (index == -1) {

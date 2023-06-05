@@ -18,6 +18,8 @@ public:
 
     // find the key at the specific index
     int KeyAt(int index);
+    // find the key at the specific index
+    int ValueAt(int index);
     // get the current size
     int GetSize() {return size_;}
 
