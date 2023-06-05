@@ -47,6 +47,7 @@ int BinarySearch::KeyAt(int index) {
 }
 
 int BinarySearch::ValueAt(int index) {
+    // find the value at in data_
     return data_[index].second;
 }
 
